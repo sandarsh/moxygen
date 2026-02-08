@@ -130,4 +130,6 @@ install(
     LIBRARY DESTINATION ${LIB_INSTALL_DIR}
 )
 
+add_subdirectory(moqinterop)
+
 #add_subdirectory(test)
